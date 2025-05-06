@@ -35,6 +35,13 @@ To build the manual model, run the following file, again changing directory path
 To build the manual model, run the following file, again changing directory paths where needed, following commented instructions when necessary.
 * Emotion_Model
 
+## Build FED Model
+To build the FED model, run the following file, again changing directory paths where needed.
+* FED_Model
+
+## Running FED Computer Vision Code
+Run main.py code in the running_FED folder.
+
 ## Preprocessing Test Phrases
 To preprocess the one hundred test phrases needed to test the models,  run each of the following files, changing the file paths to be where the files have been stored on your system:
 * clipping_videos
